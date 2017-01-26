@@ -1,0 +1,11 @@
+pane	0	0	:bash	0	:	0	:/home/skain	0	ssh	:ssh ldn1-web1
+pane	0	0	:bash	0	:	1	:/home/skain/gitlabs/sl1-gitlab/puppet	1	bash	:
+pane	0	0	:bash	0	:	2	:/home/skain/gitlabs/sl1-gitlab/hieradata-ld4	0	bash	:
+pane	0	1	:bash	1	:*	0	:/home/skain	1	bash	:
+pane	0	4	:ssh	0	:	0	:/home/skain	1	ssh	:ssh sl1-rancid
+pane	0	5	:bash	0	:-	0	:/home/skain/.vim	1	bash	:
+window	0	0	0	:	f2ed,133x115,0,0[133x25,0,0,6,133x37,0,26,0,133x51,0,64,5]
+window	0	1	1	:*	4cff,133x115,0,0,18
+window	0	4	0	:	9994,133x115,0,0,7
+window	0	5	0	:-	4cfe,133x115,0,0,17
+state	0	
